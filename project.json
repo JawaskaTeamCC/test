@@ -5,5 +5,8 @@
   "install": {
     "post": "echo Post install!",
     "pre": "echo Pre install!"
+  },
+  "files": {
+    "init.lua": "init.lua"
   }
 }
