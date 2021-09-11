@@ -3,8 +3,8 @@
   "authors": [ "Jawaska Team et al." ],
   "description": "Test purposes info manifest",
   "install": {
-    "post": "echo Post install!",
-    "pre": "echo Pre install!"
+    "post": "hello",
+    "pre": "hello"
   },
   "files": {
     "init.lua": "init.lua"
